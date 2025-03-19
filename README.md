@@ -9,7 +9,7 @@ parking, tank, stairs direction(small toilet inside), lights & fans, heavy load 
 
 **Kitchen -** stove, chimney, fridge, oven, sink, lights (modular and open kitchen)
 
-**Washroom -** toilet seat, bath area, sink, ample space for stuff, exhust washing machine
+**Washroom -** toilet seat, bath area, sink, ample space for stuff, exhust, washing machine, socket position
 
 **BedRoom -** sockets position w.r.t bed postion, drawers, dressing area, TV, work space (if needed),  floating bed(concreate)
 
