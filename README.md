@@ -15,5 +15,6 @@ parking, tank, stairs direction(small toilet inside), lights & fans, heavy load 
 
 **Living Room -**
 
+**Continuous power supply** Laptop, monitor, wifi, tubelight, fan
 
 - https://www.pinterest.com/pin/elevation-facade-in-2024--2392606047054076/
